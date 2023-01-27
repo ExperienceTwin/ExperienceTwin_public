@@ -3,11 +3,11 @@
 ## ExperienceTwin documentation
 # Table of content
 
-<COMING SOON>
+COMING SOON
 
 # How to start?
 
-<COMING SOON>
+COMING SOON
 
 
 
